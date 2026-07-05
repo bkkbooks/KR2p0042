@@ -6,15 +6,12 @@ markers:
   - {type: xml-element, offset: 0, content: '', id: KR2p0042_tls_001-bkkxmlele1, name: p, role: open, attrs: {source: 'SHANGBO.HENGXIAN 3.12.1 (STRIP 1) JI XUSHENG 3: 198f'}}
   - {type: page-break, offset: 0, content: '', id: KR2p0042_tls_001-1a}
   - {type: 'tls:seg', offset: 0, content: '', id: KR2p0042_tls_001-1a.1}
-  - {type: substitution, offset: 0, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: punctuation, offset: 4, content: ',', id: KR2p0042_tls_001-bkkpn1}
   - {type: 'tls:seg', offset: 4, content: '', id: KR2p0042_tls_001-1a.2}
   - {type: punctuation, offset: 5, content: ',', id: KR2p0042_tls_001-bkkpn2}
   - {type: punctuation, offset: 6, content: ',', id: KR2p0042_tls_001-bkkpn3}
   - {type: 'tls:seg', offset: 7, content: '', id: KR2p0042_tls_001-1a.3}
-  - {type: substitution, offset: 7, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3880}}
   - {type: punctuation, offset: 8, content: ',', id: KR2p0042_tls_001-bkkpn4}
-  - {type: substitution, offset: 9, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3880}}
   - {type: punctuation, offset: 10, content: ;, id: KR2p0042_tls_001-bkkpn5}
   - {type: 'tls:seg', offset: 10, content: '', id: KR2p0042_tls_001-1a.4}
   - {type: punctuation, offset: 11, content: ',', id: KR2p0042_tls_001-bkkpn6}
@@ -67,13 +64,10 @@ markers:
   - {type: xml-element, offset: 73, content: '', id: KR2p0042_tls_001-bkkxmlele7, name: p, role: open, attrs: {source: 'SHANGBO.HENGXIAN 3.12.4 (STRIPS 2-3) JI XUSHENG 3: 198f'}}
   - {type: page-break, offset: 73, content: '', id: KR2p0042_tls_001-4a}
   - {type: 'tls:seg', offset: 73, content: '', id: KR2p0042_tls_001-4a.1}
-  - {type: substitution, offset: 74, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0610}}
   - {type: punctuation, offset: 77, content: ',', id: KR2p0042_tls_001-bkkpn26}
   - {type: 'tls:seg', offset: 77, content: '', id: KR2p0042_tls_001-4a.2}
-  - {type: substitution, offset: 77, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'tls:seg', offset: 81, content: '', id: KR2p0042_tls_001-4a.3}
   - {type: 'tls:seg', offset: 87, content: '', id: KR2p0042_tls_001-4a.4}
-  - {type: substitution, offset: 87, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: punctuation, offset: 93, content: ',', id: KR2p0042_tls_001-bkkpn27}
   - {type: 'tls:seg', offset: 93, content: '', id: KR2p0042_tls_001-4a.5}
   - {type: xml-element, offset: 96, content: '', id: KR2p0042_tls_001-bkkxmlele8, name: p, role: close, attrs: {source: 'SHANGBO.HENGXIAN 3.12.4 (STRIPS 2-3) JI XUSHENG 3: 198f'}}
@@ -81,7 +75,6 @@ markers:
   - {type: page-break, offset: 96, content: '', id: KR2p0042_tls_001-5a}
   - {type: 'tls:seg', offset: 96, content: '', id: KR2p0042_tls_001-5a.1}
   - {type: punctuation, offset: 97, content: ',', id: KR2p0042_tls_001-bkkpn28}
-  - {type: substitution, offset: 97, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: punctuation, offset: 99, content: ',', id: KR2p0042_tls_001-bkkpn29}
   - {type: 'tls:seg', offset: 99, content: '', id: KR2p0042_tls_001-5a.2}
   - {type: 'tls:seg', offset: 104, content: '', id: KR2p0042_tls_001-5a.3}
@@ -110,7 +103,6 @@ markers:
   - {type: 'tls:seg', offset: 144, content: '', id: KR2p0042_tls_001-6a.5}
   - {type: punctuation, offset: 148, content: ',', id: KR2p0042_tls_001-bkkpn39}
   - {type: 'tls:seg', offset: 148, content: '', id: KR2p0042_tls_001-6a.6}
-  - {type: substitution, offset: 149, original: 芸, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4371}}
   - {type: punctuation, offset: 152, content: ',', id: KR2p0042_tls_001-bkkpn40}
   - {type: 'tls:seg', offset: 152, content: '', id: KR2p0042_tls_001-6a.7}
   - {type: 'tls:seg', offset: 156, content: '', id: KR2p0042_tls_001-6a.8}
@@ -159,7 +151,6 @@ markers:
   - {type: punctuation, offset: 239, content: ',', id: KR2p0042_tls_001-bkkpn53}
   - {type: 'tls:seg', offset: 239, content: '', id: KR2p0042_tls_001-9a.3}
   - {type: 'tls:seg', offset: 244, content: '', id: KR2p0042_tls_001-9a.4}
-  - {type: substitution, offset: 244, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: punctuation, offset: 248, content: ',', id: KR2p0042_tls_001-bkkpn54}
   - {type: 'tls:seg', offset: 248, content: '', id: KR2p0042_tls_001-9a.5}
   - {type: 'tls:seg', offset: 253, content: '', id: KR2p0042_tls_001-9a.6}
@@ -279,4 +270,4 @@ markers:
   - {type: 'tls:seg', offset: 483, content: '', id: KR2p0042_tls_001-16a.8}
   - {type: xml-element, offset: 487, content: '', id: KR2p0042_tls_001-bkkxmlele32, name: p, role: close, attrs: {source: 'SHANGBO.HENGXIAN 3.12.16 (STRIPS 12-13) JI XUSHENG 3: 199'}}
   back: []
-hash: sha256:294292da61bee00e669fc9daefafab2e8ca0a95fd91b3d97035acb28ac2ee7f6
+hash: sha256:d58672e7003d2e81fe8ae8982ff5ef103387a7335d5b2596b43fdc0c72b3dd3e
