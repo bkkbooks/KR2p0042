@@ -173,6 +173,7 @@ markers:
   - {type: xml-element, offset: 269, content: '', id: KR2p0042_tls_001-bkkxmlele19, name: p, role: open, attrs: {source: 'SHANGBO.HENGXIAN 3.12.10 (STRIPS 5-6) JI XUSHENG 3: 199'}}
   - {type: page-break, offset: 269, content: '', id: KR2p0042_tls_001-10a}
   - {type: 'tls:seg', offset: 269, content: '', id: KR2p0042_tls_001-10a.1}
+  - {type: voice, offset: 269, length: 0, name: note, id: n1}
   - {type: punctuation, offset: 273, content: ',', id: KR2p0042_tls_001-bkkpn59}
   - {type: 'tls:seg', offset: 273, content: '', id: KR2p0042_tls_001-10a.2}
   - {type: punctuation, offset: 277, content: ',', id: KR2p0042_tls_001-bkkpn60}
@@ -245,6 +246,7 @@ markers:
   - {type: punctuation, offset: 410, content: '?', id: KR2p0042_tls_001-bkkpn83}
   - {type: punctuation, offset: 410, content: ), id: KR2p0042_tls_001-bkkpn84}
   - {type: 'tls:seg', offset: 410, content: '', id: KR2p0042_tls_001-14a.4}
+  - {type: voice, offset: 410, length: 0, name: note, id: n2}
   - {type: punctuation, offset: 414, content: ',', id: KR2p0042_tls_001-bkkpn85}
   - {type: 'tls:seg', offset: 414, content: '', id: KR2p0042_tls_001-14a.5}
   - {type: punctuation, offset: 420, content: ',', id: KR2p0042_tls_001-bkkpn86}
@@ -279,4 +281,4 @@ markers:
   - {type: 'tls:seg', offset: 483, content: '', id: KR2p0042_tls_001-16a.8}
   - {type: xml-element, offset: 487, content: '', id: KR2p0042_tls_001-bkkxmlele32, name: p, role: close, attrs: {source: 'SHANGBO.HENGXIAN 3.12.16 (STRIPS 12-13) JI XUSHENG 3: 199'}}
   back: []
-hash: sha256:e1bedee18ec4758f244d78991db34dd99cbba77d579a1f6e7947a7f796dec1f1
+hash: sha256:dffe043ed5ead434e010bb28084b47a787e6e94deb7c859d82bbb8d5127c7f07
